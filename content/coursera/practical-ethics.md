@@ -6,7 +6,6 @@ Slug: practical-ethics
 Author: Didier Coignet
 Summary: Summary of class.coursera.org/practicalethics-001
 
-# Practical Ethics #
 Course Summary
 
 ## Week One ##
