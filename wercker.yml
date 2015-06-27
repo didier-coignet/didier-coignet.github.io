@@ -6,7 +6,7 @@ build:
         theme: redlounge
 deploy:
   steps:
-    - lukevivier/gh-pages@0.2.1:
+    - lukevivier/gh-pages:
         token: $GIT_TOKEN
         domain: didier-coignet.github.io
         basedir: public
