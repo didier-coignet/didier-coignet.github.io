@@ -8,5 +8,6 @@ deploy:
   steps:
     - lukevivier/gh-pages:
         token: $GIT_TOKEN
+        repo : didier-coignet/didier-coignet.github.io
         domain: didier-coignet.github.io
         basedir: public
