@@ -1,2 +1,0 @@
-rm -Rfv output/*
-pelican
