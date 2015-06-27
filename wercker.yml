@@ -1,0 +1,5 @@
+box: google/golang
+steps:
+    - script:
+        name: testing build
+        code: go version
